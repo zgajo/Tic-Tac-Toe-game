@@ -1,9 +1,8 @@
 # krizic-kruzic
 Mobilna verzija igre križić-kružić.
 
-### Autori
-- **Šuster Sanja** (sanjaimo@gmail.com)
-- **Pranjić Darko**	(dpranjic@unipu.hr)
+### Autor (ak.god 2015/2016)
+- **Pranjić Darko**	(darkopranjic.4@gmail.com)
 
 
 ### Organizacija
