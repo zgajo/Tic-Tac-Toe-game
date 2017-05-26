@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Križić Kružić</string>
+    <string name="igraj">normal_click</string>
+    <string name="button1">*</string>
+    <string name="button2">*</string>
+    <string name="button3">*</string>
+    <string name="button4">*</string>
+    <string name="button5">*</string>
+    <string name="button6">*</string>
+    <string name="button7">*</string>
+    <string name="button8">*</string>
+    <string name="button9">*</string>
+    <string name="button_back">Back</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calling_activity_message">calling_activity_message</string>
+    <string name="vs_android">Player vs Android</string>
+</resources>
